@@ -1,0 +1,230 @@
+body {
+	font-family: Century Gothic; 
+    font-size: 24pt;
+    color: #353434;
+    padding: 0;
+    margin: 0;  
+}
+
+a { 
+    text-decoration: none;   
+}
+
+nav img {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	font-family: Century Gothic; 
+    font-size: 24pt;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.logo {
+	width: 300px;
+	padding-left: 50px;
+	padding-right: 30px;
+}
+
+.img-start {
+	height: 706px;
+	background: url(../img/BG-header.jpg) no-repeat center top / cover;
+}
+
+.start-rectangle {
+	display:block;
+    position:absolute;
+	top: 268px;
+    height: 344px;
+    width: 100%;
+    padding:10px;
+    background-color: rgba(255,255,255,0.9);
+   
+}
+
+.start-rectangle p {
+	padding-left: 20px;
+	padding-top: 10px;
+	font-size: 28px;
+}
+
+.start-rectangle a {
+	float: right;
+	margin-right: 30px;
+	margin-top: 30px;
+}
+
+h1 {
+ 	padding-top: 20px;
+ 	padding-left: 20px;
+ 	font-weight: bold;
+ 	font-family: ITC Officina Sans Std;
+ 	font-size: 48px;
+}
+
+h2 {
+	font-size: 36px;
+	font-weight: bold;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+h3 {
+	font-weight: bold;
+	font-size: 30px;
+	padding: 0 0 20px 0;
+}
+
+h4 {
+	font-size: 22px;
+	color: #353434;
+}
+
+p {
+	font-size: 23px;
+	color: #353434;
+	letter-spacing: -0.05em;
+}
+
+span {
+ 	font-size: 24px;
+	color: #fff;
+	letter-spacing: -0.05em;
+	line-height: 0.9em;
+}
+
+.line {
+	height: 1px;
+	background-color: #353434;
+}
+.brands-cols {
+	padding-top: 68px;
+	padding-bottom: 40px;
+	text-align: center;
+	margin-bottom: 48px;
+}
+
+.brands-cols h4 {
+	padding-top: 35px;
+	padding-bottom: 35px;
+	text-align: center;
+	width: 280px;
+	margin: 0 auto;
+}
+
+.button_ord {
+	background-color: #a90e17;
+    padding: 15px 20px;
+    text-decoration: none;
+    box-shadow: 8px 8px 12px 0px rgba(0,0,0,0.5);
+    font-weight: bold;
+    color: #fff;
+    border-radius: 12px;
+    font-size: 24px;
+}
+
+.button_ord:hover {
+    background-color: #e32424;
+    color: #fff;
+    text-decoration: none;
+} 
+
+.icon {
+	float: left;
+	margin-right: 28px;
+}
+
+.half-bg {
+	padding-top: 40px;
+	position:relative;
+}
+
+/* СТРОКА ПАРТЕНРОВ */
+
+.partners-row {
+	padding-top: 30px;
+	width: 100%;
+}
+
+.partners-row a {
+	margin: auto;
+	margin-right: 15px;
+	margin-left: 15px;
+}
+
+.partners-row-2 a {
+	margin-right: 20px;
+	margin-left: 20px;
+}
+/**/
+
+/* ГРУППЫ ГРУППЫ ГРУППЫ */
+.box {
+	background-color: #f7f7f6;
+	width: 555px;
+	text-align: center;
+	height: 400px;
+	margin-top: 15px;
+}
+
+.re {
+	padding-top: 30px;
+}
+.re img{
+	height: 40px;
+}
+.groups span {
+	padding-top: 45px;
+	padding-bottom: 0px;
+	margin-bottom: 0;
+	font-weight: bold;
+	font-size: 30px;
+	padding: 0 0 20px 0;
+	font-family: Century Gothic; 
+    font-size: 24pt;
+    color: #353434;
+}
+
+.box a {
+	text-decoration: underline;
+	font-size: 23px;
+}
+
+.box-1-img {
+	padding-top: 60px;
+}
+
+/**/
+footer {
+	font-size: 27px;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+
+footer img {
+	display: block;
+	max-width: 150px;
+	max-height: 100px;
+	padding-bottom: 20px;
+	margin: 0 auto;
+}
+
+footer a {
+	display: block;
+	color: #353434;
+	letter-spacing: -0.05em;
+	font-size: 23px;
+}
+
+footer a:hover {
+	text-decoration: none;
+	color: #971a1a;
+}
+
+footer p {
+	color: #353434;
+	letter-spacing: -0.05em;
+	font-size: 23px;
+}
